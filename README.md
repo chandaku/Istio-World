@@ -1,6 +1,6 @@
 # Istio-World
 
-Istio provide configuration of service level properties 
+Istio provide configuration of service level properties, such as follows
   - Circuit Breaker
   - Timeout
   - Retry
